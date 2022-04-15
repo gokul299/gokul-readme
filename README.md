@@ -3,7 +3,6 @@
 <p align="center" >I'm Sathish Kumar, MERN stack developer from Tamil Nadu.</b> 
 </p>
 
-[<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/porfolio%20%20(1).gif" width="100%"/>](https://sathishwebdev.netlify.app)
 
 - 🌱 I’m currently learning MERN Stack Developement.
 - 👯 I’m looking for job as web designer/developer.
