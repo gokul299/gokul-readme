@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  👋</h1>
 
-<p align="center" >I'm Sathish Kumar, MERN stack developer from <b>Tamil Nadu.</b> 
+<p align="center" >I'm GOKUL PRASATH, MERN stack developer from <b>Tamil Nadu.</b> 
 </p>
 
 
@@ -32,7 +32,7 @@
 ## 😄 Cool Stats
 
 
-![Sath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GOKUL299's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathishwebdev&theme=dark&hide_border=true)
