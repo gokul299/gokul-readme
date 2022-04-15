@@ -33,7 +33,7 @@
 ## 😄 Cool Stats
 
 
-![GokulPrasath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathishwebdev&theme=dark&hide_border=true)
