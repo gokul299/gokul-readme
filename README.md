@@ -43,7 +43,7 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github.com/gokul299/gokul-readme" alt="gokul299" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/gokul299" alt="gokul299" /></p>
   
 </p>
 
