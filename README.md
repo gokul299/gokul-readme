@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN Stack Developement.
 - 👯 I’m looking for job as web designer/developer.
 - 💬 Ask me about anything.
-- 📫 sathishweb27@gmail.com.
+- 📫 prasathgokul19@gmail.com.
 - ⚡ Fun fact: Still I don't hava job 😅.
 
 ## ⚡ Things I do with
@@ -32,7 +32,7 @@
 ## 😄 Cool Stats
 
 
-![Sathish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Sath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathishwebdev&theme=dark&hide_border=true)
