@@ -43,7 +43,7 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul299_icons=true&locale=en" alt="gokul299" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/gokul299/gokul-readme" alt="gokul299" /></p>
   
 </p>
 
