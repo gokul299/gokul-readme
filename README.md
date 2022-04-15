@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  👋</h1>
 
-<p align="center" >I'm GOKUL PRASATH, MERN stack developer from <b>Tamil Nadu.</b> 
+<p align="center" >I'm Sathish Kumar, MERN stack developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
 </p>
 
+[<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/porfolio%20%20(1).gif" width="100%"/>](https://sathishwebdev.netlify.app)
 
 - 🌱 I’m currently learning MERN Stack Developement.
 - 👯 I’m looking for job as web designer/developer.
 - 💬 Ask me about anything.
-- 📫 prasathgokul19@gmail.com.
+- 📫 sathishweb27@gmail.com.
 - ⚡ Fun fact: Still I don't hava job 😅.
 
 ## ⚡ Things I do with
@@ -35,7 +33,8 @@
 ## 😄 Cool Stats
 
 
-![GOKUL299's GitHub stats]
+![Sathish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathishwebdev&theme=dark&hide_border=true)
  
@@ -46,7 +45,7 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github.com/gokul299" alt="gokul299" /></p>
+<a href="https://www.linkedin.com/in/sathishwebdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   
 </p>
 
