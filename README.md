@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  👋</h1>
 
-<p align="center" >I'm GOKUL PRASATH, MERN stack developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
+<p align="center" >I'm GOKUL PRASATH, MERN stack developer from <b>Tamil Nadu.</b> 
 </p>
 
 
