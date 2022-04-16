@@ -42,7 +42,7 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/gokul299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokul-prasath-g-77581318a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   
 </p>
 
