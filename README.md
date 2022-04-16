@@ -32,19 +32,19 @@
 ## 😄 Cool Stats
 
 
-![gokul299's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![gokul299's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul299&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathishwebdev&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokul299&theme=dark&hide_border=true)
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishwebdev&theme=dark&hide_border=true&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul299&theme=dark&hide_border=true&langs_count=3)
 
 
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/sathishwebdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokul299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   
 </p>
 
